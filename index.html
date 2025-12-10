@@ -33,14 +33,15 @@
       box-shadow: 0 18px 40px rgba(0,0,0,0.45);
       border: 1px solid rgba(255,255,255,0.04);
     }
-    .logo {
-      font-size: 28px;
-      font-weight: 600;
-      letter-spacing: 0.16em;
-      text-transform: uppercase;
-      margin-bottom: 10px;
-      color: var(--accent);
+
+    /* LOGO IMAGE */
+    .logo-img {
+      width: 180px;        /* ajuste la taille ici si besoin */
+      height: auto;
+      display: block;
+      margin: 0 auto 16px auto;
     }
+
     h1 {
       font-size: 22px;
       margin-bottom: 12px;
@@ -83,21 +84,28 @@
     }
   </style>
 </head>
+
 <body>
   <main class="card">
-    <div class="logo">Vaelan</div>
+
+    <!-- TON LOGO ICI -->
+    <img src="vaelan-logo.png" alt="Logo Vaelan" class="logo-img">
+
     <div class="pill">
       <span class="dot"></span>
       <span>Site en construction</span>
     </div>
+
     <h1>Nous préparons quelque chose d'innovant.</h1>
+
     <p>
       Vaelan développe des solutions pour reconcevoir la performance dans un monde instable, 
-      faisant de la sobriété un modèle de gestion et la fonctionnalité un modèle économique d'avenir. 
+      faisant de la sobriété un modèle de gestion et la fonctionnalité un modèle économique d'avenir.
     </p>
-          <p> 
-            Le site sera en ligne prochainement.
-            </p>
+    <p>
+      Le site sera en ligne prochainement.
+    </p>
+
     <p class="contact">
       Pour toute demande en attendant :<br>
       <a href="mailto:contact@vaelan.fr">contact@vaelan.fr</a>

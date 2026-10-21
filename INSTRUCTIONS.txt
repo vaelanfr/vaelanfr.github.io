@@ -1,13 +1,6 @@
-VAELAN – Publication GitHub Pages
+VAELAN V5 — Publication GitHub Pages
 
-Glisser les fichiers du ZIP (pas le ZIP lui-même) dans le dépôt vaelanfr/vaelanfr.github.io via Add file > Upload files, puis Commit changes.
-Conserver le CNAME et vaelan-logo.png déjà sur GitHub.
-
-MENTIONS LÉGALES : À COMPLÉTER AVANT PUBLICATION DÉFINITIVE
-- Adresse complète du siège
-- Numéro de téléphone professionnel
-- Ville d'immatriculation RCS
-- Numéro de TVA intracommunautaire confirmé
-- Vérifier le numéro de téléphone affiché pour GitHub
-
-Le directeur de publication est renseigné comme Romain Vial (à valider).
+Dans votre dépôt vaelanfr/vaelanfr.github.io, importez index.html et styles.css (ou les autres fichiers si besoin).
+Conservez les fichiers CNAME et vaelan-logo.png présents sur GitHub.
+La rubrique « Situations d’intervention » contient des cas-types, non des références clients.
+Vérifiez les mentions légales et la version mobile après publication.
